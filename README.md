@@ -23,9 +23,9 @@ The project follows an end-to-end Product Management process, from identifying u
 
 | Phase | Deliverable | Status |
 |---|---|---|
-| 01. Problem Discovery | Secondary research, problem validation, competitor analysis | In Progress |
-| 02. User Research | User personas, pain points, user journey | Not Started |
-| 03. Product Strategy | Product vision, goals, KPIs | Not Started |
+| 01. Problem Discovery | Research and competitor analysis | Completed |
+| 02. User Research | Personas, JTBD, user journeys | Completed |
+| 03. Product Strategy | Vision, value proposition, KPIs | Completed |
 | 04. Prioritisation | RICE framework, MVP scope | Not Started |
 | 05. Product Requirements | PRD, user stories, acceptance criteria | Not Started |
 | 06. Design & Prototype | User flows, Lovable MVP | Not Started |
@@ -53,8 +53,18 @@ Features will be prioritised based on research findings rather than treated as c
 
 ## 5. Project Documentation
 
-Documentation will be added as each phase is completed.
+### Phase 1 — Problem Discovery
+- [Problem Discovery Report](01-problem-discovery/discovery-report.md)
 
+### Phase 2 — User Research
+- [User Personas](02-user-research/user-personas.md)
+- [Jobs-to-Be-Done](02-user-research/jobs-to-be-done.md)
+- [User Journey Map](02-user-research/user-journey-map.md)
+
+### Phase 3 — Product Strategy
+- [Product Vision & Strategy](03-product-strategy/product-vision.md)
+- [Value Proposition](03-product-strategy/value-proposition.md)
+- [North Star Metric & KPIs](03-product-strategy/north-star-and-kpis.md)
 ## 6. Prototype
 
 **Lovable MVP:** Coming soon.
