@@ -6,7 +6,7 @@ GymFix is an independent Product Management portfolio project exploring how gym 
 
 **Role:** Product Manager (Independent Project)  
 **Project Type:** End-to-End Product Management Case Study  
-**Status:** In Progress  
+**Status:** Case Study Completed | Prototype MVP
 **Tools:** GitHub, Lovable, Notion, Excel / Google Sheets
 
 ---
@@ -30,7 +30,7 @@ The project follows an end-to-end Product Management process, from identifying u
 | 05. Product Requirements | PRD, user stories, acceptance criteria | Completed |
 | 06. Design & Prototype | User flows, Lovable MVP | Completed |
 | 07. Testing & Iteration | Usability testing, product improvements | Completed (Simulated Evaluation) |
-| 08. Roadmap & Learnings | Future roadmap, reflection | Not Started |
+| 08. Roadmap & Learnings | Future roadmap, reflection | Completed |
 
 ## 3. Research Approach
 
@@ -38,19 +38,20 @@ This project uses publicly available customer discussions, industry research, an
 
 Findings from secondary research will be distinguished from assumptions and hypothetical product targets.
 
-## 4. Proposed Solution
+## 4. MVP Solution
 
-GymFix will explore the following potential capabilities:
+GymFix is an interactive, browser-based prototype that demonstrates a complete equipment fault reporting and maintenance tracking workflow.
 
-- Simple equipment fault reporting
-- Centralised maintenance ticket management
-- Repair status tracking
-- Staff and technician workflows
-- Equipment maintenance history
-- Operational dashboard for gym managers
+### Core Features
 
-Features will be prioritised based on research findings rather than treated as confirmed MVP requirements.
+- **Equipment Fault Reporting:** Members can report faulty equipment and receive unique ticket references.
+- **Maintenance Dashboard:** Staff can view and manage equipment maintenance tickets.
+- **Technician Assignment:** Staff can assign maintenance tasks to technicians.
+- **Repair Status Tracking:** Members can check the progress of reported faults.
+- **Role-Specific Interfaces:** Dedicated views for gym members, staff, and maintenance technicians.
+- **Browser-Based Persistence:** Demo tickets remain available after refreshing the page.
 
+The prototype focuses on the core reporting-to-resolution workflow. Advanced analytics, predictive maintenance, and automated notifications were intentionally excluded from the initial MVP.
 ## 5. Project Documentation
 
 ### Phase 1 — Problem Discovery
@@ -87,14 +88,80 @@ Features will be prioritised based on research findings rather than treated as c
 ### Phase 7 — Usability Testing & Iteration
 
 - [Simulated Usability Evaluation](07-usability-testing/simulated-usability-report.md)
+
+### Phase 8 — Product Roadmap & Learnings
+
+- [Product Roadmap](08-roadmap-and-learnings/product-roadmap.md)
+- [Key Learnings & Reflection](08-roadmap-and-learnings/key-learnings.md)
+- [Final PM Case Study](08-roadmap-and-learnings/final-case-study.md)
+
 ## 6. Prototype
 
-**Lovable MVP:** Coming soon.
+### GymFix — Interactive MVP
 
-## 7. Outcomes & Key Learnings
+GymFix is a functional, browser-based prototype developed using Lovable to demonstrate the end-to-end gym equipment maintenance workflow.
 
-To be updated after prototype development and evaluation.
+**[View Live GymFix Prototype](https://gymfix-demo.lovable.app/)**
+### Prototype Screenshots
+
+#### Gym Member — Reporting Experience
+![GymFix Member Interface](assets/gymfix-member.png)
+
+#### Gym Staff — Maintenance Dashboard
+![GymFix Staff Dashboard](assets/gymfix-staff.png)
+
+#### Maintenance Technician — Repair Management
+![GymFix Technician Interface](assets/gymfix-technician.png)
+
+### Key Features
+
+- **Equipment Fault Reporting:** Members can submit equipment-specific fault reports and receive unique ticket IDs.
+- **Maintenance Dashboard:** Gym staff can view and manage reported equipment faults.
+- **Technician Assignment:** Staff can assign maintenance tickets to technicians.
+- **Repair Status Tracking:** Members and staff can monitor maintenance progress.
+- **Role-Based Demo Views:** Switch between Member, Staff, and Technician interfaces.
+- **Browser-Based Persistence:** Demo tickets remain available after refreshing the page.
+
+### Functional Validation
+
+The prototype successfully passed **7 out of 7 manual functional checks**, including fault submission, technician assignment, ticket status updates, and browser-storage persistence.
+
+**Note:** GymFix currently operates in demo mode using browser-based storage. Role switching is for demonstration purposes and does not represent production authentication or multi-user access.
+
+[View Phase 6 Documentation](06-design-and-prototype/README.md)
 
 ---
 
-*This is an independent portfolio case study and is not affiliated with any gym operator.*
+## 7. Outcomes & Key Learnings
+
+### Project Outcomes
+
+- Completed an **8-phase Product Management case study**, covering problem discovery, user research, product strategy, feature prioritisation, requirements definition, prototyping, evaluation planning, and roadmap development.
+- Conducted secondary research using publicly available gym-member discussions and competitor analysis.
+- Developed evidence-informed user personas, Jobs-to-Be-Done statements, and user journey maps.
+- Applied the **RICE prioritisation framework** to define a focused MVP scope.
+- Created a Product Requirements Document (PRD), user stories, and acceptance criteria.
+- Built and published an interactive GymFix prototype using Lovable.
+- Successfully completed **7/7 manual functional checks**.
+- Developed a simulated usability evaluation to demonstrate KPI analysis and iteration planning.
+
+### Key Learnings
+
+1. **Problem Discovery:** Understanding the underlying problem is essential before deciding what features to build.
+2. **Data-Driven Prioritisation:** Frameworks such as RICE help structure product decisions, but estimates must be distinguished from actual evidence.
+3. **MVP Scope Management:** Prioritising essential workflows helps avoid unnecessary product complexity.
+4. **Product Validation:** A functional prototype demonstrates technical feasibility but does not establish product-market fit.
+5. **Continuous Iteration:** Testing, feedback, and clearly defined success metrics are important for guiding future improvements.
+
+### Next Steps
+
+- Conduct real usability testing with gym members and operators.
+- Validate the proposed product value with potential customers.
+- Explore shared database storage and authentication for a future pilot.
+- Evaluate additional features based on validated user needs.
+
+**[Read the Full Product Management Case Study](08-roadmap-and-learnings/final-case-study.md)**
+
+---
+
+*This is an independent Product Management portfolio case study and is not affiliated with any gym operator. Secondary research, hypothetical estimates, and simulated evaluations are identified separately from observed results.*
