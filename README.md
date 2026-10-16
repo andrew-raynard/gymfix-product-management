@@ -83,6 +83,10 @@ Features will be prioritised based on research findings rather than treated as c
 
 - [Prototype Documentation](06-design-and-prototype/README.md)
 - [Live GymFix Demo](https://gymfix-demo.lovable.app/)
+
+### Phase 7 — Usability Testing & Iteration
+
+- [Simulated Usability Evaluation](07-usability-testing/simulated-usability-report.md)
 ## 6. Prototype
 
 **Lovable MVP:** Coming soon.
