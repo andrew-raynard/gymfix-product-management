@@ -65,6 +65,12 @@ Features will be prioritised based on research findings rather than treated as c
 - [Product Vision & Strategy](03-product-strategy/product-vision.md)
 - [Value Proposition](03-product-strategy/value-proposition.md)
 - [North Star Metric & KPIs](03-product-strategy/north-star-and-kpis.md)
+
+### Phase 4 — Feature Prioritisation
+
+- [RICE Prioritisation Matrix](04-feature-prioritisation/GymFix_Phase4_RICE_Prioritisation.xlsx)
+- [Prioritisation Report](04-feature-prioritisation/GymFix_Phase4_Prioritisation_Report.md)
+- [MVP Scope & Trade-offs](04-feature-prioritisation/GymFix_Phase4_MVP_Scope.md)
 ## 6. Prototype
 
 **Lovable MVP:** Coming soon.
