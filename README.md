@@ -71,6 +71,13 @@ Features will be prioritised based on research findings rather than treated as c
 - [RICE Prioritisation Matrix](04-feature-prioritisation/GymFix_Phase4_RICE_Prioritisation.xlsx)
 - [Prioritisation Report](04-feature-prioritisation/GymFix_Phase4_Prioritisation_Report.md)
 - [MVP Scope & Trade-offs](04-feature-prioritisation/GymFix_Phase4_MVP_Scope.md)
+
+### Phase 5 — Product Requirements
+
+- [Product Requirements Document](05-product-requirements/PRD.md)
+- [User Stories & Acceptance Criteria](05-product-requirements/User_Stories_and_Acceptance_Criteria.md)
+- [Functional Requirements](05-product-requirements/Functional_Requirements.md)
+- [Lovable Build Specification](05-product-requirements/Lovable_Build_Spec.md)
 ## 6. Prototype
 
 **Lovable MVP:** Coming soon.
