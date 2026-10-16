@@ -26,10 +26,10 @@ The project follows an end-to-end Product Management process, from identifying u
 | 01. Problem Discovery | Research and competitor analysis | Completed |
 | 02. User Research | Personas, JTBD, user journeys | Completed |
 | 03. Product Strategy | Vision, value proposition, KPIs | Completed |
-| 04. Prioritisation | RICE framework, MVP scope | Not Started |
-| 05. Product Requirements | PRD, user stories, acceptance criteria | Not Started |
-| 06. Design & Prototype | User flows, Lovable MVP | Not Started |
-| 07. Testing & Iteration | Usability testing, product improvements | Not Started |
+| 04. Prioritisation | RICE framework, MVP scope | Completed |
+| 05. Product Requirements | PRD, user stories, acceptance criteria | Completed |
+| 06. Design & Prototype | User flows, Lovable MVP | Completed |
+| 07. Testing & Iteration | Usability testing, product improvements | Completed (Simulated Evaluation) |
 | 08. Roadmap & Learnings | Future roadmap, reflection | Not Started |
 
 ## 3. Research Approach
