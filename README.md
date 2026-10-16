@@ -78,6 +78,11 @@ Features will be prioritised based on research findings rather than treated as c
 - [User Stories & Acceptance Criteria](05-product-requirements/User_Stories_and_Acceptance_Criteria.md)
 - [Functional Requirements](05-product-requirements/Functional_Requirements.md)
 - [Lovable Build Specification](05-product-requirements/Lovable_Build_Spec.md)
+
+### Phase 6 — Design & Prototype
+
+- [Prototype Documentation](06-design-and-prototype/README.md)
+- [Live GymFix Demo](https://gymfix-demo.lovable.app/)
 ## 6. Prototype
 
 **Lovable MVP:** Coming soon.
